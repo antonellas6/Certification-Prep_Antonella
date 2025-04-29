@@ -1,8 +1,14 @@
-﻿body
-{
-    font-family:"Segoe UI",Tahoma,sans-serif;
-    background-color:#fab66b;
+body {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background-color: #fab66b;
 }
+
 p {
     color: navy;
+}
+
+/* New sale class */
+.sale {
+    font-weight: bold;
+    background-color: aqua;
 }
