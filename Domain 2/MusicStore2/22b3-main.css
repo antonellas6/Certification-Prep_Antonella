@@ -13,3 +13,14 @@ p {
 #sidenote {
     background-color:#dbd9d9;
 }
+
+/* a tag styling */
+a {
+    text-decoration: none;
+}
+
+/* a tag hover styling */
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
